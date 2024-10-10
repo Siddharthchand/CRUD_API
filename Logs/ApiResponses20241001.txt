@@ -1,0 +1,716 @@
+2024-10-01 11:28:12.260 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 11:28:12.293 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 11:28:12.330 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 11:28:12.332 +05:30 [INF] Hosting environment: Development
+2024-10-01 11:28:12.333 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 11:28:12.774 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 11:28:13.104 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 334.2896ms
+2024-10-01 11:28:13.128 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 11:28:13.154 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 26.5971ms
+2024-10-01 11:29:24.238 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 11:29:24.265 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 11:29:24.319 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 11:29:24.320 +05:30 [INF] Hosting environment: Development
+2024-10-01 11:29:24.321 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 11:29:24.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 11:29:24.884 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 254.2186ms
+2024-10-01 11:29:24.935 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 11:29:24.983 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 47.6772ms
+2024-10-01 11:54:08.604 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 11:54:08.633 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 11:54:08.671 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 11:54:08.676 +05:30 [INF] Hosting environment: Development
+2024-10-01 11:54:08.682 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 11:54:09.185 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 11:54:09.516 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 333.4714ms
+2024-10-01 11:54:09.545 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 11:54:09.576 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 30.7442ms
+2024-10-01 11:55:20.648 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 11:55:20.674 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 11:55:20.706 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 11:55:20.708 +05:30 [INF] Hosting environment: Development
+2024-10-01 11:55:20.709 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 11:55:21.192 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 11:55:21.518 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 330.0187ms
+2024-10-01 11:55:21.541 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 11:55:21.567 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 25.612ms
+2024-10-01 12:02:27.636 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:02:27.666 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:02:27.711 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:02:27.714 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:02:27.716 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:02:28.480 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:02:28.901 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 426.4268ms
+2024-10-01 12:02:28.933 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:02:28.967 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 34.0332ms
+2024-10-01 12:11:18.613 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:11:18.669 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:11:18.726 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:11:18.730 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:11:18.734 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:11:19.039 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:11:19.495 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 463.0696ms
+2024-10-01 12:11:19.557 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:11:19.611 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 53.7432ms
+2024-10-01 12:14:14.950 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:14:14.982 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:14:15.020 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:14:15.020 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:14:15.021 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:14:15.608 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:14:16.030 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 425.1979ms
+2024-10-01 12:14:16.086 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:14:16.132 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 46.455ms
+2024-10-01 12:23:42.906 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:23:42.949 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:23:42.990 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:23:42.994 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:23:42.998 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:23:43.385 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:23:43.775 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 396.3968ms
+2024-10-01 12:23:43.811 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:23:43.859 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 48.5944ms
+2024-10-01 12:26:31.010 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:26:31.052 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:26:31.102 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:26:31.104 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:26:31.107 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:26:31.562 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:26:31.985 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 433.2792ms
+2024-10-01 12:26:32.017 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:26:32.075 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 57.241ms
+2024-10-01 12:28:12.706 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:28:12.761 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:28:12.797 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:28:12.799 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:28:12.800 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:28:13.199 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:28:13.622 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 428.2784ms
+2024-10-01 12:28:13.653 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:28:13.685 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 31.3465ms
+2024-10-01 12:31:23.379 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:31:23.429 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:31:23.495 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:31:23.498 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:31:23.499 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:31:24.140 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:31:24.514 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 500 null application/json 380.3149ms
+2024-10-01 12:31:24.573 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+2024-10-01 12:31:24.610 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null application/json 37.5708ms
+2024-10-01 12:32:11.880 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:32:11.926 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:32:11.968 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:32:11.970 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:32:11.970 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:32:12.727 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:32:12.971 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 249.8086ms
+2024-10-01 12:32:12.979 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 12:32:12.987 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 12:32:12.999 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 19.7063ms
+2024-10-01 12:32:13.070 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.2476ms
+2024-10-01 12:32:13.113 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 12:32:13.411 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 298.3491ms
+2024-10-01 12:33:05.128 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:33:05.188 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:33:05.236 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:33:05.239 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:33:05.240 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:33:05.950 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:33:06.253 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 309.6604ms
+2024-10-01 12:33:06.269 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 12:33:06.281 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 12:33:06.285 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 16.4259ms
+2024-10-01 12:33:06.340 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.661ms
+2024-10-01 12:33:06.495 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 12:33:06.820 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 325.4438ms
+2024-10-01 12:33:23.526 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 12:33:23.567 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 12:33:23.600 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 12:33:23.601 +05:30 [INF] Hosting environment: Development
+2024-10-01 12:33:23.602 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 12:33:24.232 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 12:33:24.433 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 206.1982ms
+2024-10-01 12:33:24.447 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 12:33:24.457 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 9.8696ms
+2024-10-01 12:33:24.458 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 12:33:24.514 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.8397ms
+2024-10-01 12:33:24.692 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 12:33:24.997 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 306.4353ms
+2024-10-01 13:08:41.291 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:08:41.364 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:08:41.436 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:08:41.438 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:08:41.441 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:08:41.735 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:08:42.002 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 273.9094ms
+2024-10-01 13:08:42.018 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:08:42.018 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:08:42.038 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 20.4676ms
+2024-10-01 13:08:42.082 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 65.1617ms
+2024-10-01 13:08:42.124 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:08:42.410 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 287.1966ms
+2024-10-01 13:09:38.070 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:09:38.126 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:09:38.178 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:09:38.179 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:09:38.181 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:09:38.467 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:09:38.661 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 197.8884ms
+2024-10-01 13:09:38.677 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:09:38.679 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:09:38.693 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 16.2718ms
+2024-10-01 13:09:38.736 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.7124ms
+2024-10-01 13:09:38.858 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:09:39.146 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 287.8422ms
+2024-10-01 13:12:41.747 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:12:41.803 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:12:41.861 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:12:41.864 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:12:41.865 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:12:42.164 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:12:42.414 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 257.4466ms
+2024-10-01 13:12:42.419 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:12:42.419 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:12:42.442 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 20.4496ms
+2024-10-01 13:12:42.475 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.3309ms
+2024-10-01 13:12:42.513 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:12:42.728 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 215.4182ms
+2024-10-01 13:39:33.575 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:39:33.601 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:39:33.603 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:39:33.603 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:39:33.604 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:39:33.900 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:39:34.025 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 126.7998ms
+2024-10-01 13:39:34.034 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:39:34.041 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 6.9398ms
+2024-10-01 13:39:34.103 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:39:34.236 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 500 null application/json 132.8434ms
+2024-10-01 13:39:54.808 +05:30 [INF] Application is shutting down...
+2024-10-01 13:40:49.721 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:40:49.764 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:40:49.816 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:40:49.817 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:40:49.817 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:40:50.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:40:50.777 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 195.9386ms
+2024-10-01 13:40:50.785 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:40:50.792 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:40:50.794 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.4963ms
+2024-10-01 13:40:50.841 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.1767ms
+2024-10-01 13:40:50.878 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:40:50.955 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 77.1533ms
+2024-10-01 13:41:28.004 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Kunal121&Password=Kunal%40123 - null null
+2024-10-01 13:41:28.040 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:41:28.983 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 13:41:29.888 +05:30 [INF] Executed DbCommand (73ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 13:41:30.010 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 13:41:30.198 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 1197.2237ms
+2024-10-01 13:41:30.207 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:41:30.501 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Kunal121&Password=Kunal%40123 - 0 null application/json 2499.1652ms
+2024-10-01 13:41:59.340 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Kunal121&Password=Kunal%401234 - null null
+2024-10-01 13:41:59.348 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:41:59.362 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 13:41:59.406 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 13:41:59.416 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 13:41:59.479 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 107.0016ms
+2024-10-01 13:41:59.484 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:41:59.549 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Kunal121&Password=Kunal%401234 - 0 null application/json 210.0272ms
+2024-10-01 13:42:17.334 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddahrth%40123 - null null
+2024-10-01 13:42:17.343 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:42:17.361 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 13:42:17.409 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 13:42:17.413 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 13:42:17.423 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 13:42:17.475 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 108.4593ms
+2024-10-01 13:42:17.477 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:42:17.539 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddahrth%40123 - 0 null application/json 206.2802ms
+2024-10-01 13:42:53.437 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-10-01 13:42:53.439 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:42:53.453 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 13:42:53.465 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 13:42:53.468 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 13:42:53.471 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 13:42:53.598 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-10-01 13:42:53.608 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 146.1459ms
+2024-10-01 13:42:53.626 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 13:42:53.630 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null text/plain; charset=utf-8 193.659ms
+2024-10-01 13:43:04.175 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-10-01 13:43:04.180 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:43:04.195 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 13:43:04.251 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-10-01 13:43:04.258 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.ExceptionHandlerMiddleware.CommonResponse'.
+2024-10-01 13:43:04.278 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 76.2079ms
+2024-10-01 13:43:04.283 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:43:04.285 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 200 null application/json; charset=utf-8 110.1539ms
+2024-10-01 13:44:45.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=465454 - null null
+2024-10-01 13:44:45.124 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:44:45.138 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 13:44:45.152 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 13:44:45.208 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 65.3783ms
+2024-10-01 13:44:45.215 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:44:45.261 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=465454 - 0 null application/json 159.1124ms
+2024-10-01 13:46:12.549 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:46:12.588 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:46:12.631 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:46:12.635 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:46:12.638 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:46:13.664 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:46:13.934 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 274.8661ms
+2024-10-01 13:46:13.952 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:46:13.954 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:46:13.965 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 13.8578ms
+2024-10-01 13:46:14.024 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 70.5256ms
+2024-10-01 13:46:14.072 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:46:14.188 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 115.7389ms
+2024-10-01 13:46:23.672 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=32425646 - null null
+2024-10-01 13:46:23.705 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:46:24.274 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 13:46:26.638 +05:30 [INF] Executed DbCommand (90ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 13:46:26.804 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 2517.5811ms
+2024-10-01 13:46:26.812 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:46:27.156 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=32425646 - 0 null application/json 3484.296ms
+2024-10-01 13:47:42.513 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:47:42.558 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:47:42.623 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:47:42.627 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:47:42.631 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:47:43.314 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:47:43.520 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 208.7486ms
+2024-10-01 13:47:43.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:47:43.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:47:43.556 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 30.1882ms
+2024-10-01 13:47:43.634 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 108.1499ms
+2024-10-01 13:47:43.704 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:47:43.852 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 149.3324ms
+2024-10-01 13:47:50.719 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=65456 - null null
+2024-10-01 13:47:50.743 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:47:51.329 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 13:47:53.368 +05:30 [INF] Executed DbCommand (90ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 13:47:53.496 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 2154.6192ms
+2024-10-01 13:47:53.503 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:47:53.843 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=65456 - 0 null application/json 3124.5963ms
+2024-10-01 13:48:24.640 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 13:48:24.698 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 13:48:24.774 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 13:48:24.776 +05:30 [INF] Hosting environment: Development
+2024-10-01 13:48:24.778 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 13:48:25.455 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 13:48:25.730 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 280.9936ms
+2024-10-01 13:48:25.744 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 13:48:25.744 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 13:48:25.784 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 38.4386ms
+2024-10-01 13:48:25.853 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 109.5105ms
+2024-10-01 13:48:25.969 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 13:48:26.113 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 144.6984ms
+2024-10-01 13:48:32.729 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=469534615 - null null
+2024-10-01 13:48:32.765 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:48:33.408 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 13:48:35.686 +05:30 [INF] Executed DbCommand (84ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 13:48:35.855 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 2436.1078ms
+2024-10-01 13:48:35.860 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 13:48:36.267 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=469534615 - 0 null application/json 3538.9156ms
+2024-10-01 14:51:00.968 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 14:51:01.009 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 14:51:01.047 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 14:51:01.051 +05:30 [INF] Hosting environment: Development
+2024-10-01 14:51:01.055 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 14:51:01.544 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 14:51:01.718 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 176.8924ms
+2024-10-01 14:51:01.727 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 14:51:01.734 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 14:51:01.735 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 7.9872ms
+2024-10-01 14:51:01.782 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.4633ms
+2024-10-01 14:51:01.816 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 14:51:01.903 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.2152ms
+2024-10-01 14:51:30.714 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-10-01 14:51:30.759 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 14:51:31.140 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 14:51:31.915 +05:30 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-10-01 14:51:32.004 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.ExceptionHandlerMiddleware.CommonResponse'.
+2024-10-01 14:51:32.030 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 883.9058ms
+2024-10-01 14:51:32.038 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 14:51:32.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 200 null application/json; charset=utf-8 1339.1351ms
+2024-10-01 14:51:39.317 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=64564 - null null
+2024-10-01 14:51:39.323 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 14:51:39.338 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 14:51:39.447 +05:30 [INF] Executed DbCommand (13ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 14:51:39.556 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 211.6404ms
+2024-10-01 14:51:39.563 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 14:51:39.892 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=64564 - 0 null application/json 575.2882ms
+2024-10-01 15:31:59.208 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 15:31:59.234 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 15:31:59.261 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 15:31:59.261 +05:30 [INF] Hosting environment: Development
+2024-10-01 15:31:59.262 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 15:31:59.749 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 15:31:59.909 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 163.1726ms
+2024-10-01 15:31:59.914 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 15:31:59.918 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 15:31:59.920 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 6.3213ms
+2024-10-01 15:31:59.947 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.8649ms
+2024-10-01 15:31:59.971 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 15:32:00.032 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 60.3224ms
+2024-10-01 15:32:20.085 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=1231434 - null null
+2024-10-01 15:32:20.096 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 15:32:20.377 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 15:32:21.019 +05:30 [INF] Executed DbCommand (23ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 15:32:21.089 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 707.999ms
+2024-10-01 15:32:21.092 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 15:32:21.230 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=1231434 - 200 null application/json 1144.8567ms
+2024-10-01 15:32:29.305 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-10-01 15:32:29.310 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 15:32:29.319 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 15:32:29.336 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-10-01 15:32:29.370 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.ExceptionHandlerMiddleware.CommonResponse'.
+2024-10-01 15:32:29.386 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 65.3618ms
+2024-10-01 15:32:29.389 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 15:32:29.390 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 200 null application/json; charset=utf-8 86.4028ms
+2024-10-01 15:32:36.650 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=658468 - null null
+2024-10-01 15:32:36.654 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 15:32:36.676 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 15:32:36.723 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 15:32:36.766 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 87.1435ms
+2024-10-01 15:32:36.769 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 15:32:36.818 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=658468 - 200 null application/json 168.5143ms
+2024-10-01 15:36:24.978 +05:30 [INF] Application is shutting down...
+2024-10-01 15:59:45.370 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 15:59:45.397 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 15:59:45.426 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 15:59:45.427 +05:30 [INF] Hosting environment: Development
+2024-10-01 15:59:45.427 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 15:59:46.072 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 15:59:46.223 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 155.9774ms
+2024-10-01 15:59:46.228 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 15:59:46.231 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 15:59:46.243 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 15.4549ms
+2024-10-01 15:59:46.268 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.581ms
+2024-10-01 15:59:46.294 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 15:59:46.357 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 63.2359ms
+2024-10-01 16:00:06.534 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=68451 - null null
+2024-10-01 16:00:06.579 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:00:07.477 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:00:18.595 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 11108.6139ms
+2024-10-01 16:00:18.598 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:00:18.820 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=68451 - 500 null application/json 12287.8583ms
+2024-10-01 16:01:09.884 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-10-01 16:01:09.901 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:01:09.938 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:01:10.986 +05:30 [INF] Executed DbCommand (45ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:01:11.091 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 1149.5238ms
+2024-10-01 16:01:11.093 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:01:11.131 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 1 null application/json 1246.3738ms
+2024-10-01 16:01:26.236 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-10-01 16:01:26.244 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:01:26.267 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:01:26.311 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:01:26.338 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:01:26.387 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:01:26.462 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-10-01 16:01:26.467 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 196.1759ms
+2024-10-01 16:01:26.470 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:01:26.472 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null text/plain; charset=utf-8 237.1145ms
+2024-10-01 16:01:42.256 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=68451 - null null
+2024-10-01 16:01:42.270 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:01:42.285 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:01:42.440 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-10-01 16:01:42.484 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 194.5628ms
+2024-10-01 16:01:42.488 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:01:42.527 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=68451 - 1 null application/json 273.0254ms
+2024-10-01 16:01:52.189 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-10-01 16:01:52.203 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:01:52.216 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:01:52.233 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-10-01 16:01:52.238 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.ExceptionHandlerMiddleware.CommonResponse'.
+2024-10-01 16:01:52.274 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 54.5066ms
+2024-10-01 16:01:52.277 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:01:52.280 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 200 null application/json; charset=utf-8 91.959ms
+2024-10-01 16:02:19.368 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7261/api/PostLogin/ChangePassword?userName=edqefefreerfewgf&oldPassword=efrwgfwgvwrgrwg&newPassword=wfrwgfgf - null 0
+2024-10-01 16:02:19.371 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.ChangePassword (User_API)'
+2024-10-01 16:02:19.385 +05:30 [INF] Route matched with {action = "ChangePassword", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ChangePassword(System.String, System.String, System.String) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:02:19.395 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:02:19.401 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = -1)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:02:19.445 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.ChangePassword (User_API) in 56.8355ms
+2024-10-01 16:02:19.449 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.ChangePassword (User_API)'
+2024-10-01 16:02:19.486 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7261/api/PostLogin/ChangePassword?userName=edqefefreerfewgf&oldPassword=efrwgfwgvwrgrwg&newPassword=wfrwgfgf - 6 null application/json 117.5864ms
+2024-10-01 16:03:12.849 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/PostLogin/UpdateUserDetails?userName=Siddharth121&newName=Siddharth&newCountry=Japan - null 0
+2024-10-01 16:03:12.867 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.UpdateUser (User_API)'
+2024-10-01 16:03:12.884 +05:30 [INF] Route matched with {action = "UpdateUser", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUser(System.String, System.String, System.String) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:03:12.892 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:03:12.902 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__Name_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Name` = @__Name_0
+LIMIT 1
+2024-10-01 16:03:12.943 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.UpdateUser (User_API) in 55.8081ms
+2024-10-01 16:03:12.946 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.UpdateUser (User_API)'
+2024-10-01 16:03:12.981 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/PostLogin/UpdateUserDetails?userName=Siddharth121&newName=Siddharth&newCountry=Japan - 5 null application/json 131.2964ms
+2024-10-01 16:03:19.720 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7261/api/PostLogin/UpdateUserDetails?userName=Siddharth121&newName=Siddharth_&newCountry=Japan - null 0
+2024-10-01 16:03:19.723 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.UpdateUser (User_API)'
+2024-10-01 16:03:19.730 +05:30 [INF] Route matched with {action = "UpdateUser", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUser(System.String, System.String, System.String) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:03:19.737 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:03:19.742 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__Name_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Name` = @__Name_0
+LIMIT 1
+2024-10-01 16:03:19.874 +05:30 [INF] Executed DbCommand (12ms) [Parameters=[@p5='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET AUTOCOMMIT = 1;
+UPDATE `usertable` SET `Country` = @p0, `CreatedAt` = @p1, `Name` = @p2, `Status` = @p3, `UserName` = @p4
+WHERE `Id` = @p5;
+SELECT ROW_COUNT();
+2024-10-01 16:03:19.889 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.ExceptionHandlerMiddleware.CommonResponse'.
+2024-10-01 16:03:19.893 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.UpdateUser (User_API) in 158.3546ms
+2024-10-01 16:03:19.894 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.UpdateUser (User_API)'
+2024-10-01 16:03:19.896 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7261/api/PostLogin/UpdateUserDetails?userName=Siddharth121&newName=Siddharth_&newCountry=Japan - 200 null application/json; charset=utf-8 175.9531ms
+2024-10-01 16:09:46.475 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 16:09:46.506 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 16:09:46.540 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 16:09:46.545 +05:30 [INF] Hosting environment: Development
+2024-10-01 16:09:46.546 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 16:09:46.728 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 16:09:46.860 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 134.2635ms
+2024-10-01 16:09:46.865 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 16:09:46.868 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 16:09:46.872 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 7.5561ms
+2024-10-01 16:09:46.900 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.8885ms
+2024-10-01 16:09:46.941 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 16:09:47.000 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.1361ms
+2024-10-01 16:10:06.539 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-10-01 16:10:06.549 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:10:07.190 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-10-01 16:10:07.357 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 160.9576ms
+2024-10-01 16:10:07.360 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-10-01 16:10:07.567 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 500 null application/json 1028.6054ms
+2024-10-01 16:11:15.185 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Password%40123 - null null
+2024-10-01 16:11:15.194 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:15.207 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:11:15.708 +05:30 [INF] Executed DbCommand (23ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:11:15.751 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:15.768 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:15.808 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 599.8282ms
+2024-10-01 16:11:15.810 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:15.863 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Password%40123 - 3 null application/json 677.1295ms
+2024-10-01 16:11:22.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Password%401234 - null null
+2024-10-01 16:11:22.109 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:22.121 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:11:22.132 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:11:22.136 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:22.138 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:22.174 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 50.9256ms
+2024-10-01 16:11:22.176 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:22.223 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Password%401234 - 3 null application/json 120.8144ms
+2024-10-01 16:11:28.848 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%401234 - null null
+2024-10-01 16:11:28.857 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:28.869 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:11:28.911 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:11:28.914 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:28.917 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:28.951 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 79.4128ms
+2024-10-01 16:11:28.953 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:28.990 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%401234 - 3 null application/json 142.8631ms
+2024-10-01 16:11:32.635 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-10-01 16:11:32.639 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:32.647 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:11:32.650 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:11:32.653 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:32.657 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:11:32.666 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-10-01 16:11:32.668 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 19.4027ms
+2024-10-01 16:11:32.670 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:11:32.671 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null text/plain; charset=utf-8 35.8524ms
+2024-10-01 16:13:05.481 +05:30 [INF] Now listening on: https://localhost:7261
+2024-10-01 16:13:05.520 +05:30 [INF] Now listening on: http://localhost:5070
+2024-10-01 16:13:05.552 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-01 16:13:05.554 +05:30 [INF] Hosting environment: Development
+2024-10-01 16:13:05.555 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-10-01 16:13:05.753 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-10-01 16:13:05.898 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 148.6997ms
+2024-10-01 16:13:05.904 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-01 16:13:05.908 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-10-01 16:13:05.912 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.497ms
+2024-10-01 16:13:05.943 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.2596ms
+2024-10-01 16:13:05.967 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-10-01 16:13:06.026 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.5235ms
+2024-10-01 16:13:39.040 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-10-01 16:13:39.052 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:13:39.306 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-10-01 16:13:40.260 +05:30 [INF] Executed DbCommand (44ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-10-01 16:13:40.346 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:13:40.375 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-10-01 16:13:40.466 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.ExceptionHandlerMiddleware.CommonResponse'.
+2024-10-01 16:13:40.513 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 1194.3014ms
+2024-10-01 16:13:40.517 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-10-01 16:13:40.539 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null application/json; charset=utf-8 1501.4734ms

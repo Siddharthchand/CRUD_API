@@ -1,0 +1,974 @@
+2024-09-27 09:20:47.541 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:20:47.576 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:20:47.609 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:20:47.610 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:20:47.611 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:20:48.678 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger - null null
+2024-09-27 09:20:48.813 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger - 301 0 null 138.8704ms
+2024-09-27 09:20:48.821 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:20:48.875 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 54.2992ms
+2024-09-27 09:20:48.931 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/swagger-ui.css - null null
+2024-09-27 09:20:48.931 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:20:48.931 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/swagger-ui-bundle.js - null null
+2024-09-27 09:20:48.931 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/swagger-ui-standalone-preset.js - null null
+2024-09-27 09:20:48.932 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:20:48.978 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 47.2354ms
+2024-09-27 09:20:49.005 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-09-27 09:20:49.005 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-09-27 09:20:49.007 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 75.9167ms
+2024-09-27 09:20:49.009 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/swagger-ui.css - 200 143943 text/css 78.2469ms
+2024-09-27 09:20:49.021 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-09-27 09:20:49.022 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 91.4878ms
+2024-09-27 09:20:49.043 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 111.3738ms
+2024-09-27 09:20:49.166 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:20:49.180 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/favicon-32x32.png - null null
+2024-09-27 09:20:49.187 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-09-27 09:20:49.190 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/favicon-32x32.png - 200 628 image/png 9.8144ms
+2024-09-27 09:20:49.237 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 71.5235ms
+2024-09-27 09:21:01.347 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:21:01.384 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:21:01.418 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:21:01.419 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:21:01.420 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:21:02.061 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:21:02.214 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 155.0891ms
+2024-09-27 09:21:02.228 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:21:02.228 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:21:02.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.0017ms
+2024-09-27 09:21:02.270 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.1504ms
+2024-09-27 09:21:02.389 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:21:02.450 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 61.244ms
+2024-09-27 09:23:44.935 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:23:44.962 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:23:44.990 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:23:44.991 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:23:44.991 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:23:45.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:23:45.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 155.2356ms
+2024-09-27 09:23:45.686 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:23:45.686 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:23:45.697 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 10.7508ms
+2024-09-27 09:23:45.723 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.1247ms
+2024-09-27 09:23:45.776 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:23:45.834 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 58.4266ms
+2024-09-27 09:25:48.423 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:25:48.456 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:25:48.501 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:25:48.502 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:25:48.503 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:25:48.883 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:25:49.030 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 149.3358ms
+2024-09-27 09:25:49.040 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:25:49.040 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:25:49.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.8164ms
+2024-09-27 09:25:49.081 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.8274ms
+2024-09-27 09:25:49.428 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:25:49.526 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 98.1799ms
+2024-09-27 09:27:22.627 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - application/json 95
+2024-09-27 09:27:22.647 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:27:23.647 +05:30 [INF] Route matched with {action = "RegisterUser", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegisterUser(User_API.Entities.AddUser) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:27:24.931 +05:30 [INF] Executed DbCommand (39ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:27:25.048 +05:30 [INF] Executed DbCommand (15ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 09:27:25.129 +05:30 [INF] Executed action User_API.Controller.PreLogin.RegisterUser (User_API) in 1475.3041ms
+2024-09-27 09:27:25.131 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:27:25.205 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid user's password | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 48
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 09:27:25.404 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - 400 null application/json 2777.9444ms
+2024-09-27 09:31:50.387 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:31:50.412 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:31:50.439 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:31:50.439 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:31:50.440 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:31:51.106 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:31:51.275 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 173.1404ms
+2024-09-27 09:31:51.322 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:31:51.322 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:31:51.333 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 10.7388ms
+2024-09-27 09:31:51.400 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 77.468ms
+2024-09-27 09:31:51.513 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:31:51.587 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 74.9758ms
+2024-09-27 09:33:07.794 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - application/json 96
+2024-09-27 09:33:07.812 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:33:08.019 +05:30 [INF] Route matched with {action = "RegisterUser", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegisterUser(User_API.Entities.AddUser) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:33:08.556 +05:30 [INF] Executed DbCommand (23ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:33:08.606 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 09:33:08.690 +05:30 [INF] Executed action User_API.Controller.PreLogin.RegisterUser (User_API) in 663.6791ms
+2024-09-27 09:33:08.695 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:33:08.772 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid user's password | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 48
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 09:33:08.885 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - 400 null application/json 1092.216ms
+2024-09-27 09:45:02.263 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:45:02.289 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:45:02.317 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:45:02.318 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:45:02.318 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:45:02.938 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:45:03.103 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 167.1699ms
+2024-09-27 09:45:03.174 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:45:03.178 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:45:03.226 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 52.0455ms
+2024-09-27 09:45:03.269 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.9202ms
+2024-09-27 09:45:03.357 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:45:03.423 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 66.3988ms
+2024-09-27 09:45:29.270 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - application/json 96
+2024-09-27 09:45:29.301 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:45:30.312 +05:30 [INF] Route matched with {action = "RegisterUser", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegisterUser(User_API.Entities.AddUser) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:45:31.396 +05:30 [INF] Executed DbCommand (39ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:45:31.520 +05:30 [INF] Executed action User_API.Controller.PreLogin.RegisterUser (User_API) in 1200.7495ms
+2024-09-27 09:45:31.523 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:45:31.582 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid credentials | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 09:45:31.726 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - 400 null application/json 2456.1054ms
+2024-09-27 09:45:38.280 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - application/json 96
+2024-09-27 09:45:38.285 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:45:38.305 +05:30 [INF] Route matched with {action = "RegisterUser", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegisterUser(User_API.Entities.AddUser) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:45:38.348 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:45:38.404 +05:30 [INF] Executed action User_API.Controller.PreLogin.RegisterUser (User_API) in 94.3837ms
+2024-09-27 09:45:38.407 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:45:38.443 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid credentials | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 09:45:38.447 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - 400 null application/json 167.7877ms
+2024-09-27 09:45:47.965 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - application/json 96
+2024-09-27 09:45:47.974 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:45:47.983 +05:30 [INF] Route matched with {action = "RegisterUser", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegisterUser(User_API.Entities.AddUser) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:45:48.047 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:45:48.265 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 15), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `clientable` (`Password`, `UserName`)
+VALUES (@p0, @p1);
+SELECT `ClientId`
+FROM `clientable`
+WHERE ROW_COUNT() = 1 AND `ClientId` = LAST_INSERT_ID();
+
+INSERT INTO `usertable` (`Country`, `CreatedAt`, `Name`, `Status`, `UserName`)
+VALUES (@p2, @p3, @p4, @p5, @p6);
+SELECT `Id`
+FROM `usertable`
+WHERE ROW_COUNT() = 1 AND `Id` = LAST_INSERT_ID();
+2024-09-27 09:45:48.325 +05:30 [INF] Executing OkObjectResult, writing value of type 'User_API.Entities.User'.
+2024-09-27 09:45:48.347 +05:30 [INF] Executed action User_API.Controller.PreLogin.RegisterUser (User_API) in 359.5118ms
+2024-09-27 09:45:48.349 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.RegisterUser (User_API)'
+2024-09-27 09:45:48.350 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7261/api/PreLogin/Prelogin/Register - 200 null application/json; charset=utf-8 385.2155ms
+2024-09-27 09:46:25.131 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Prelogin/Login?userName=Alex121&Password=Alex%40123 - null null
+2024-09-27 09:46:25.138 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 09:46:25.150 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:46:25.159 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:46:25.173 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 09:46:25.202 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 51.4139ms
+2024-09-27 09:46:25.204 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 09:46:25.228 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: User does not exist | StackTrace:    at User_API.Services.ClientServiceClass.LoginService(String userName, String Password) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Services\ClientService.cs:line 59
+   at User_API.Controller.PreLogin.UserLogin(String userName, String Password) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Controllers\PreLogin.cs:line 34
+   at lambda_method145(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 09:46:25.232 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Prelogin/Login?userName=Alex121&Password=Alex%40123 - 400 null application/json 100.3897ms
+2024-09-27 09:46:49.154 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Prelogin/Login?userName=Alex%40121&Password=Alex%40123 - null null
+2024-09-27 09:46:49.162 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 09:46:49.178 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 09:46:49.184 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 09:46:49.189 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 09:46:49.203 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 09:46:49.379 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-09-27 09:46:49.383 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 203.4307ms
+2024-09-27 09:46:49.399 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 09:46:49.401 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Prelogin/Login?userName=Alex%40121&Password=Alex%40123 - 200 null text/plain; charset=utf-8 247.5799ms
+2024-09-27 09:47:00.119 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 09:47:00.126 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 09:47:00.139 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 09:47:00.194 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-09-27 09:47:00.197 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User_API.Entities.User, User_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-09-27 09:47:00.200 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 57.3817ms
+2024-09-27 09:47:00.201 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 09:47:00.203 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 200 null application/json; charset=utf-8 85.7102ms
+2024-09-27 09:47:48.753 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 09:47:48.781 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 09:47:48.819 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 09:47:48.820 +05:30 [INF] Hosting environment: Development
+2024-09-27 09:47:48.820 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 09:47:49.137 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 09:47:49.275 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 140.5388ms
+2024-09-27 09:47:49.340 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 09:47:49.340 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 09:47:49.373 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 32.6393ms
+2024-09-27 09:47:49.395 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.8064ms
+2024-09-27 09:47:49.446 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 09:47:49.506 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 60.1289ms
+2024-09-27 15:13:49.373 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:13:49.406 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:13:49.442 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:13:49.444 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:13:49.446 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:13:49.696 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:13:49.872 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 179.5751ms
+2024-09-27 15:13:49.878 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:13:49.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:13:49.890 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 11.8789ms
+2024-09-27 15:13:49.919 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.2542ms
+2024-09-27 15:13:49.945 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:13:50.004 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.4608ms
+2024-09-27 15:14:13.958 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Prelogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-09-27 15:14:13.994 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 15:14:14.571 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 15:14:15.163 +05:30 [INF] Executed DbCommand (25ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 15:14:15.244 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 15:14:15.263 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 15:14:15.383 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-09-27 15:14:15.395 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 815.7464ms
+2024-09-27 15:14:15.399 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 15:14:15.410 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Prelogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null text/plain; charset=utf-8 1488.5196ms
+2024-09-27 15:14:25.467 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:14:25.476 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:14:25.494 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:15:02.015 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:15:02.047 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:15:02.091 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:15:02.092 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:15:02.093 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:15:02.395 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:15:02.537 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 145.3289ms
+2024-09-27 15:15:02.542 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:15:02.546 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:15:02.548 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 6.2447ms
+2024-09-27 15:15:02.579 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.9194ms
+2024-09-27 15:15:02.602 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:15:02.679 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 76.6608ms
+2024-09-27 15:15:30.562 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:15:30.593 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:15:30.956 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:15:48.991 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 18027.0618ms
+2024-09-27 15:15:48.997 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:15:49.068 +05:30 [ERR] Exception caught: SecurityTokenInvalidAudienceException | StatusCode: 200 | Message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null. | StackTrace:    at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at User_API.Filter.UserVerificationFilter.ValidateToken(String token) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 75
+   at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 52
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 15:15:49.275 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 500 null application/json 18714.1915ms
+2024-09-27 15:18:57.227 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:18:57.254 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:18:57.284 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:18:57.285 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:18:57.288 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:18:57.623 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:18:57.751 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 130.9976ms
+2024-09-27 15:18:57.760 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:18:57.763 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:18:57.770 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 10.4391ms
+2024-09-27 15:18:57.798 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.6433ms
+2024-09-27 15:18:57.819 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:18:57.884 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 64.4526ms
+2024-09-27 15:19:06.102 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:19:06.127 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:19:06.540 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:19:06.817 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 265.4498ms
+2024-09-27 15:19:06.821 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:19:06.873 +05:30 [ERR] Exception caught: SecurityTokenInvalidAudienceException | StatusCode: 200 | Message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null. | StackTrace:    at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at User_API.Filter.UserVerificationFilter.ValidateToken(String token) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 75
+   at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 52
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 15:19:06.979 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 500 null application/json 876.891ms
+2024-09-27 15:21:59.896 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:21:59.923 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:21:59.954 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:21:59.955 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:21:59.956 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:22:00.467 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:22:00.621 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 157.9804ms
+2024-09-27 15:22:00.628 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:22:00.628 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:22:00.637 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.6987ms
+2024-09-27 15:22:00.668 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.33ms
+2024-09-27 15:22:00.694 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:22:00.763 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 69.7382ms
+2024-09-27 15:22:59.813 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:22:59.837 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:23:00.105 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:23:00.249 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 140.9824ms
+2024-09-27 15:23:00.251 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:23:00.299 +05:30 [ERR] Exception caught: SecurityTokenInvalidAudienceException | StatusCode: 200 | Message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null. | StackTrace:    at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at User_API.Filter.UserVerificationFilter.ValidateToken(String token) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 75
+   at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 52
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 15:23:00.374 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 500 null application/json 561.6247ms
+2024-09-27 15:24:02.776 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:24:02.804 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:24:02.854 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:24:02.855 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:24:02.855 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:24:03.157 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:24:03.300 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 145.1351ms
+2024-09-27 15:24:03.306 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:24:03.309 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:24:03.311 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 5.1058ms
+2024-09-27 15:24:03.339 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.1617ms
+2024-09-27 15:24:03.492 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:24:03.596 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 105.1681ms
+2024-09-27 15:24:10.641 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:24:10.672 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:24:11.060 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:25:26.332 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 75266.0189ms
+2024-09-27 15:25:36.202 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:28:05.148 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:28:05.180 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:28:05.206 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:28:05.207 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:28:05.208 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:28:05.440 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:28:05.581 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 144.5796ms
+2024-09-27 15:28:05.584 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:28:05.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:28:05.597 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 12.9871ms
+2024-09-27 15:28:05.633 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.0483ms
+2024-09-27 15:28:05.657 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:28:05.725 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 68.0697ms
+2024-09-27 15:28:17.691 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:28:17.722 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:28:18.021 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:28:18.643 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-09-27 15:28:18.689 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User_API.Entities.User, User_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-09-27 15:28:18.701 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 669.8445ms
+2024-09-27 15:28:18.703 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:28:18.708 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 200 null application/json; charset=utf-8 1017.5697ms
+2024-09-27 15:29:09.391 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 15:29:09.423 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 15:29:09.456 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 15:29:09.458 +05:30 [INF] Hosting environment: Development
+2024-09-27 15:29:09.458 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 15:29:09.843 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 15:29:09.990 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 147.446ms
+2024-09-27 15:29:09.992 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 15:29:09.997 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 15:29:10.004 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 12.2714ms
+2024-09-27 15:29:10.024 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.9984ms
+2024-09-27 15:29:10.132 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 15:29:10.218 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.455ms
+2024-09-27 15:29:18.722 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:29:18.746 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:29:18.990 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:29:19.187 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 179.6867ms
+2024-09-27 15:29:19.196 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:29:19.280 +05:30 [ERR] Exception caught: SecurityTokenMalformedException | StatusCode: 200 | Message: IDX12741: JWT must have three segments (JWS) or five segments (JWE). | StackTrace:    at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at User_API.Filter.UserVerificationFilter.ValidateToken(String token) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 75
+   at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 52
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 15:29:19.409 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 500 null application/json 687.9193ms
+2024-09-27 15:29:26.788 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - null null
+2024-09-27 15:29:26.799 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:29:26.810 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 15:29:26.873 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 58.6836ms
+2024-09-27 15:29:26.880 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 15:29:26.911 +05:30 [ERR] Exception caught: SecurityTokenSignatureKeyNotFoundException | StatusCode: 200 | Message: IDX10503: Signature validation failed. Token does not have a kid. Keys tried: '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'System.IdentityModel.Tokens.Jwt.JwtSecurityToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details. | StackTrace:    at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateSignature(String token, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateSignatureAndIssuerSecurityKey(String token, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at User_API.Filter.UserVerificationFilter.ValidateToken(String token) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 75
+   at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 52
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 15:29:26.921 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/PostLogin/GetUser/Id:int - 500 null application/json 133.4888ms
+2024-09-27 16:32:28.390 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 16:32:28.417 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 16:32:28.446 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 16:32:28.448 +05:30 [INF] Hosting environment: Development
+2024-09-27 16:32:28.448 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 16:32:29.026 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 16:32:29.167 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 142.4075ms
+2024-09-27 16:32:29.168 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 16:32:29.173 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 16:32:29.181 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 12.7542ms
+2024-09-27 16:32:29.214 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.8357ms
+2024-09-27 16:32:29.239 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 16:32:29.302 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 62.9372ms
+2024-09-27 16:33:03.376 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 16:33:03.413 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 16:33:03.446 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 16:33:03.447 +05:30 [INF] Hosting environment: Development
+2024-09-27 16:33:03.448 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 16:33:03.651 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 16:33:03.793 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 144.8053ms
+2024-09-27 16:33:03.797 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 16:33:03.804 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 6.4468ms
+2024-09-27 16:33:03.805 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 16:33:03.839 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.5328ms
+2024-09-27 16:33:03.920 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 16:33:04.005 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 85.1217ms
+2024-09-27 16:33:52.912 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 16:33:52.938 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 16:33:52.966 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 16:33:52.967 +05:30 [INF] Hosting environment: Development
+2024-09-27 16:33:52.967 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 16:33:53.486 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 16:33:53.624 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 142.2286ms
+2024-09-27 16:33:53.632 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 16:33:53.635 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 16:33:53.642 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 9.4345ms
+2024-09-27 16:33:53.676 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.4572ms
+2024-09-27 16:33:53.732 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 16:33:53.796 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 64.6727ms
+2024-09-27 16:35:03.994 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 16:35:04.025 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 16:35:04.056 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 16:35:04.057 +05:30 [INF] Hosting environment: Development
+2024-09-27 16:35:04.058 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 16:35:04.642 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 16:35:04.777 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 139.2584ms
+2024-09-27 16:35:04.782 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 16:35:04.790 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.1411ms
+2024-09-27 16:35:04.791 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 16:35:04.821 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.8163ms
+2024-09-27 16:35:04.894 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 16:35:04.973 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 79.6688ms
+2024-09-27 16:35:33.446 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=12345678 - null null
+2024-09-27 16:35:33.469 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:35:33.957 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 16:35:35.003 +05:30 [INF] Executed DbCommand (39ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 16:35:35.115 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 1148.2991ms
+2024-09-27 16:35:35.117 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:35:35.166 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid credentials | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 16:35:35.290 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=12345678 - 400 null application/json 1845.1434ms
+2024-09-27 16:35:42.362 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=12345678 - null null
+2024-09-27 16:35:42.373 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:35:42.395 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 16:35:42.440 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 16:35:42.477 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 75.4612ms
+2024-09-27 16:35:42.482 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:35:42.504 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid credentials | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 16:35:42.510 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=12345678 - 400 null application/json 148.2939ms
+2024-09-27 16:36:28.302 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=12345678 - null null
+2024-09-27 16:36:28.350 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:36:28.365 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 16:36:28.461 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 16:36:28.513 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 145.4556ms
+2024-09-27 16:36:28.518 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:36:28.549 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid credentials | StackTrace:    at User_API.Filter.UserVerificationFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Filter\UserVerificationFilter.cs:line 38
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 16:36:28.555 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=12345678 - 400 null application/json 252.6786ms
+2024-09-27 16:37:07.164 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-09-27 16:37:07.176 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:37:07.189 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 16:37:07.201 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 16:37:07.225 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 16:37:07.281 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 16:37:07.369 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-09-27 16:37:07.374 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 178.8628ms
+2024-09-27 16:37:07.378 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:37:07.380 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null text/plain; charset=utf-8 215.5964ms
+2024-09-27 16:39:39.340 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 16:39:39.374 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 16:39:39.405 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 16:39:39.405 +05:30 [INF] Hosting environment: Development
+2024-09-27 16:39:39.406 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 16:39:40.100 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 16:39:40.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 137.7895ms
+2024-09-27 16:39:40.239 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 16:39:40.242 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 16:39:40.250 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 11.1601ms
+2024-09-27 16:39:40.276 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.5893ms
+2024-09-27 16:39:40.300 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 16:39:40.354 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 53.8982ms
+2024-09-27 16:40:22.612 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - null null
+2024-09-27 16:40:22.637 +05:30 [INF] Executing endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:40:22.889 +05:30 [INF] Route matched with {action = "UserLogin", controller = "PreLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UserLogin(System.String, System.String) on controller User_API.Controller.PreLogin (User_API).
+2024-09-27 16:40:23.415 +05:30 [INF] Executed DbCommand (30ms) [Parameters=[@__p_0='?' (Size = 20)], CommandType='"Text"', CommandTimeout='30']
+SELECT `v`.`ClientId`, `v`.`ClientSecret`
+FROM `verifyclientable` AS `v`
+WHERE `v`.`ClientId` = @__p_0
+LIMIT 1
+2024-09-27 16:40:23.472 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[@__userName_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 16:40:23.491 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[@__userName_0='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SELECT `c`.`ClientId`, `c`.`Password`, `c`.`UserName`
+FROM `clientable` AS `c`
+WHERE `c`.`UserName` = @__userName_0
+LIMIT 1
+2024-09-27 16:40:23.545 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-09-27 16:40:23.549 +05:30 [INF] Executed action User_API.Controller.PreLogin.UserLogin (User_API) in 654.3211ms
+2024-09-27 16:40:23.551 +05:30 [INF] Executed endpoint 'User_API.Controller.PreLogin.UserLogin (User_API)'
+2024-09-27 16:40:23.558 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PreLogin/Login?userName=Siddharth121&Password=Siddharth%40123 - 200 null text/plain; charset=utf-8 980.5889ms
+2024-09-27 16:40:33.769 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-09-27 16:40:33.780 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 16:40:33.798 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 16:40:33.835 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-09-27 16:40:33.837 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User_API.Entities.User, User_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-09-27 16:40:33.846 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 43.4563ms
+2024-09-27 16:40:33.849 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 16:40:33.850 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 200 null application/json; charset=utf-8 82.4084ms
+2024-09-27 16:44:29.575 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 16:44:29.606 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 16:44:29.638 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 16:44:29.640 +05:30 [INF] Hosting environment: Development
+2024-09-27 16:44:29.641 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 16:44:29.891 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 16:44:30.033 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 146.839ms
+2024-09-27 16:44:30.036 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 16:44:30.039 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 16:44:30.044 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 8.7464ms
+2024-09-27 16:44:30.070 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.9776ms
+2024-09-27 16:44:30.096 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 16:44:30.169 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 72.6381ms
+2024-09-27 16:44:36.230 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - null null
+2024-09-27 16:44:36.241 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 16:44:36.460 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 16:44:37.071 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+2024-09-27 16:44:37.115 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User_API.Entities.User, User_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-09-27 16:44:37.127 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 657.2246ms
+2024-09-27 16:44:37.128 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 16:44:37.135 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser - 200 null application/json; charset=utf-8 905.0732ms
+2024-09-27 17:10:47.391 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 17:10:47.424 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 17:10:47.463 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 17:10:47.468 +05:30 [INF] Hosting environment: Development
+2024-09-27 17:10:47.474 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 17:10:48.213 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 17:10:48.419 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 211.1077ms
+2024-09-27 17:10:48.425 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 17:10:48.431 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 17:10:48.438 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 12.8208ms
+2024-09-27 17:10:48.485 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.1737ms
+2024-09-27 17:10:48.546 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 17:10:48.646 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 100.5585ms
+2024-09-27 17:11:31.425 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser-+?id=555 - null null
+2024-09-27 17:11:31.456 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 17:11:32.450 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 17:11:33.612 +05:30 [INF] Executed DbCommand (32ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-09-27 17:11:33.775 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 1315.0829ms
+2024-09-27 17:11:33.782 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 17:11:33.906 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid user! | StackTrace:    at User_API.Services.UserServiceClass.GetAllUsers(Nullable`1 Id) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Services\UserService.cs:line 40
+   at UserAPI.Controller.PostLogin.GetUsers(Nullable`1 id) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Controllers\PostLogin.cs:line 21
+   at lambda_method6(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 17:11:34.070 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser-+?id=555 - 400 null application/json 2646.4744ms
+2024-09-27 17:23:51.117 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 17:23:51.156 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 17:23:51.206 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 17:23:51.208 +05:30 [INF] Hosting environment: Development
+2024-09-27 17:23:51.210 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 17:23:51.887 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 17:23:52.092 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 210.8895ms
+2024-09-27 17:23:52.101 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 17:23:52.108 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 17:23:52.125 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 24.1602ms
+2024-09-27 17:23:52.172 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.0784ms
+2024-09-27 17:23:52.228 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 17:23:52.338 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 109.973ms
+2024-09-27 17:24:05.336 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=89797 - null null
+2024-09-27 17:24:05.352 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 17:24:05.712 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 17:24:06.654 +05:30 [INF] Executed DbCommand (44ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-09-27 17:24:06.809 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 1074.5532ms
+2024-09-27 17:24:06.815 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 17:24:06.906 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid user! | StackTrace:    at User_API.Services.UserServiceClass.GetAllUsers(Nullable`1 Id) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Services\UserService.cs:line 40
+   at UserAPI.Controller.PostLogin.GetUsers(Nullable`1 id) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Controllers\PostLogin.cs:line 21
+   at lambda_method6(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 17:24:07.085 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=89797 - 400 null application/json 1750.0777ms
+2024-09-27 17:54:22.999 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 17:54:23.038 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 17:54:23.094 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 17:54:23.095 +05:30 [INF] Hosting environment: Development
+2024-09-27 17:54:23.097 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 17:54:24.026 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 17:54:24.309 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 287.353ms
+2024-09-27 17:54:24.355 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 17:54:24.355 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 17:54:24.387 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 32.3749ms
+2024-09-27 17:54:24.440 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 85.1775ms
+2024-09-27 17:54:24.489 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 17:54:24.643 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 154.2575ms
+2024-09-27 17:55:58.679 +05:30 [INF] Now listening on: https://localhost:7261
+2024-09-27 17:55:58.707 +05:30 [INF] Now listening on: http://localhost:5070
+2024-09-27 17:55:58.742 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 17:55:58.747 +05:30 [INF] Hosting environment: Development
+2024-09-27 17:55:58.753 +05:30 [INF] Content root path: C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API
+2024-09-27 17:55:59.715 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/index.html - null null
+2024-09-27 17:56:00.004 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/index.html - 200 null text/html;charset=utf-8 291.9782ms
+2024-09-27 17:56:00.049 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-27 17:56:00.049 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/_vs/browserLink - null null
+2024-09-27 17:56:00.064 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 16.1467ms
+2024-09-27 17:56:00.111 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.5807ms
+2024-09-27 17:56:00.153 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - null null
+2024-09-27 17:56:00.266 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 113.1292ms
+2024-09-27 17:56:20.878 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=6876854 - null null
+2024-09-27 17:56:20.905 +05:30 [INF] Executing endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 17:56:21.557 +05:30 [INF] Route matched with {action = "GetUsers", controller = "PostLogin"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUsers(System.Nullable`1[System.Int32]) on controller UserAPI.Controller.PostLogin (User_API).
+2024-09-27 17:56:23.641 +05:30 [INF] Executed DbCommand (75ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `u`.`Id`, `u`.`Country`, `u`.`CreatedAt`, `u`.`Name`, `u`.`Status`, `u`.`UserName`
+FROM `usertable` AS `u`
+WHERE `u`.`Id` = @__p_0
+LIMIT 1
+2024-09-27 17:56:23.798 +05:30 [INF] Executed action UserAPI.Controller.PostLogin.GetUsers (User_API) in 2225.2763ms
+2024-09-27 17:56:23.803 +05:30 [INF] Executed endpoint 'UserAPI.Controller.PostLogin.GetUsers (User_API)'
+2024-09-27 17:56:23.915 +05:30 [ERR] Exception caught: CustomException | StatusCode: 200 | Message: Invalid user! | StackTrace:    at User_API.Services.UserServiceClass.GetAllUsers(Nullable`1 Id) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Services\UserService.cs:line 40
+   at UserAPI.Controller.PostLogin.GetUsers(Nullable`1 id) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\Controllers\PostLogin.cs:line 21
+   at lambda_method6(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at User_API.ExceptionHandlerMiddleware.ExceptionHandler.InvokeAsync(HttpContext context) in C:\Users\hp\Desktop\C#learn\proj_api\User_API\User_API\ExceptionHandlerMiddleware\ExceptionHandler.cs:line 16
+2024-09-27 17:56:24.146 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7261/api/PostLogin/GetUser?id=6876854 - 400 null application/json 3269.8407ms
